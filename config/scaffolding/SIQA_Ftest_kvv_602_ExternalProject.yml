@@ -8,11 +8,11 @@ packages:
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
 services:
-- serviceName: project.siqa_ftest_kvv_602_external.integrations:ref1
+- serviceName: project.siqa_ftest_kvv_602_external.integrations:ref2
   packages:
   - name: SIQA_Ftest_kvv_602_ExternalProject
     version: "1.0"
-- serviceName: project.siqa_ftest_kvv_602_external.referencedata:ref1
+- serviceName: project.siqa_ftest_kvv_602_external.referencedata:ref2_csv
   packages:
   - name: SIQA_Ftest_kvv_602_ExternalProject
     version: "1.0"
